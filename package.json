@@ -1,0 +1,12 @@
+{
+  "name": "jogging-up",
+  "version": "1.0.0",
+  "description": "Static HTML page with Jogging Up button",
+  "scripts": {
+    "dev": "serve . -l 3000",
+    "serve": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
